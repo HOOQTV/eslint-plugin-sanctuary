@@ -9,7 +9,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-var rule = require("../../../lib/rules/sanctuary-no-undef"),
+var rule = require("../../../lib/rules/no-undef"),
     RuleTester = require("eslint").RuleTester;
 
 //------------------------------------------------------------------------------
