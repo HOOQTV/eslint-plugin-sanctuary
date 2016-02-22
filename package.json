@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-sanctuary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Misc. eslint rules of Sanctuary",
   "keywords": [
     "eslint",
