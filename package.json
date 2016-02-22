@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-sanctuary",
+  "version": "1.0.0",
+  "description": "Misc. eslint rules of Sanctuary",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "sanctuary"
+  ],
+  "author": "Dhi Aurrahman <dio@hooq.tv>",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests/**/**/*.js"
+  },
+  "dependencies": {
+    "requireindex": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.2.0"
+  },
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "license": "MIT"
+}
