@@ -1,5 +1,7 @@
 # eslint-plugin-sanctuary
 
+**Migrated to https://github.coupang.net/coupang/couplay-eslint-plugin-sanctuary**
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
